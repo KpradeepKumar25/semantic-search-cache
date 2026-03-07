@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Semantic Search Tester</title>
+</head>
+
+<body>
+
+<h2>Semantic Search System</h2>
+
+<input id="query" type="text" placeholder="Enter your query" size="50">
+
+<button onclick="sendQuery()">Search</button>
+
+<pre id="result"></pre>
+
+<script>
+
+async function sendQuery(){
+
+const query = document.getElementById("query").value;
+
+const response = await fetch("http://127.0.0.1:8000/query",{
+
+method:"POST",
+
+headers:{
+"Content-Type":"application/json"
+},
+
+body:JSON.stringify({query:query})
+
+});
+
+const data = await response.json();
+
+document.getElementById("result").textContent =
+JSON.stringify(data,null,2);
+
+}
+
+</script>
+
+</body>
+
+</html>

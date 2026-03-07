@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+data/*.npy
+data/*.pkl
+data/*.index
+data/*.faiss
+
+.env
