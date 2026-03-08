@@ -372,7 +372,7 @@ Example:
 
 ```
 
-![Swagger UI](screenshots/swagger.png)
+
 
 ```
 
@@ -380,11 +380,10 @@ Example:
 
 ## Semantic Search Example
 
-(Add screenshot of query result)
+
 
 ```
 
-![Query Example](screenshots/query_result.png)
 
 ```
 
@@ -392,11 +391,11 @@ Example:
 
 ## Cache Hit Demonstration
 
-(Add screenshot showing cache hit)
+
 
 ```
 
-![Cache Hit](screenshots/cache_hit.png)
+
 
 ```
 
@@ -464,31 +463,9 @@ Possible enhancements include:
 
 # Author
 
-**Pradeep Kumar**
+**Pradeep Kumar(23BLC1240)**
 
 AI/ML Engineering Project
 Trademarkia Internship Assignment
-
-```
-
----
-
-# Final Tip
-
-When adding screenshots, create a folder:
-
-```
-
-screenshots/
-
-```
-
-Example:
-
-```
-
-screenshots/swagger.png
-screenshots/query.png
-screenshots/cache_hit.png
 
 ```
