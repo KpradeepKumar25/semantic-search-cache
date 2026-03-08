@@ -362,44 +362,13 @@ semantic-search-cache
 
 ---
 
-# Screenshots
-
-## FastAPI Swagger Interface
-
-(Add screenshot here)
-
-Example:
+# Document With screenshot
 
 ```
 
-
-
-```
-
----
-
-## Semantic Search Example
-
-
+https://docs.google.com/document/d/15jmfPY773QMkFmf-EflDsb2tAzbxM6vWMEGLmKnzymQ/edit?usp=sharing
 
 ```
-
-
-```
-
----
-
-## Cache Hit Demonstration
-
-
-
-```
-
-
-
-```
-
----
 
 # Example Workflow
 
@@ -469,3 +438,4 @@ AI/ML Engineering Project
 Trademarkia Internship Assignment
 
 ```
+
