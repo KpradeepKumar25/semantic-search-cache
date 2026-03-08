@@ -364,11 +364,10 @@ semantic-search-cache
 
 # Document With screenshot
 
-```
 
 https://docs.google.com/document/d/15jmfPY773QMkFmf-EflDsb2tAzbxM6vWMEGLmKnzymQ/edit?usp=sharing
 
-```
+
 
 # Example Workflow
 
@@ -438,4 +437,5 @@ AI/ML Engineering Project
 Trademarkia Internship Assignment
 
 ```
+
 
